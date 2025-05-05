@@ -20,10 +20,15 @@ The Zomato Analytics Dashboard empowers stakeholders by offering data-driven ins
 ## Key Insights:
 
 ✔ Total Orders, Average Delivery Time, and Order Value KPIs
+
 ✔ Delivery Time Analysis by City
+
 ✔ Top 10 Revenue-Generating Restaurants
+
 ✔ Customer Ratings Breakdown (1 to 5 Stars)
+
 ✔ Cuisine Popularity Trends
+
 ✔ Discount Utilization Tracking
 
 ## Summary
