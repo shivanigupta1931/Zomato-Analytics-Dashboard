@@ -13,7 +13,7 @@ The Zomato Analytics Dashboard empowers stakeholders by offering data-driven ins
    
 ![Zomato Dashboard Page 1-1](https://github.com/user-attachments/assets/ae52ce6f-aad9-43c6-b91a-450a6aa350c3)
 
-3. Zomato Report – Analyzes customer demographics, spending behavior, and segmentation.
+2. Zomato Report – Analyzes customer demographics, spending behavior, and segmentation.
 
 ![Zomato Dashboard Page 2-1](https://github.com/user-attachments/assets/5adce171-7f25-4ff8-b9c7-03b2bec14165)
 
